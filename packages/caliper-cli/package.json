@@ -29,7 +29,7 @@
         "@hyperledger/caliper-core": "0.6.1-unstable",
         "@hyperledger/caliper-fabric": "0.6.1-unstable",
         "@hyperledger/caliper-ethereum": "0.6.1-unstable",
-        "yargs": "15.3.1"
+        "yargs": "15.4.1"
     },
     "devDependencies": {
         "eslint": "^5.16.0",
