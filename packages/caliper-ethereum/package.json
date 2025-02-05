@@ -23,7 +23,7 @@
     },
     "dependencies": {
         "@hyperledger/caliper-core": "0.6.1-unstable",
-        "ethereumjs-wallet": "^0.6.3",
+        "ethereumjs-wallet": "^1.0.2",
         "web3-eea": "0.10.0"
     },
     "devDependencies": {
